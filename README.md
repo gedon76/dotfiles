@@ -1,4 +1,4 @@
-![cool image](https://ibb.co/8YGS263](https://i.ibb.co/hYrtHD5/2024-08-24-165323-1920x1080-scrot.png)
+[cool image](https://ibb.co/8YGS263](https://i.ibb.co/hYrtHD5/2024-08-24-165323-1920x1080-scrot.png)
 
 ## Software used:
 - alacritty
