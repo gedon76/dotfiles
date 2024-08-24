@@ -13,6 +13,7 @@
 
 ## Scripts used:
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
+- [rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
 
 ## Theme used:
 - gruvbox
