@@ -18,4 +18,6 @@
 ## Fonts used:
 - [Nerd Fonts](https://www.nerdfonts.com/)
 
+## [Cursor](https://github.com/sainnhe/capitaine-cursors)
+
 ### [Sxhkd config because i won't write all keybinds in a readme](/.config/sxhkd/sxhkdrc) 
