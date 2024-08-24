@@ -4,24 +4,24 @@ DOW=$(date +%u)
 ADOW=$(date +%d/%m/%y)
 case $DOW in
 	"0")
-		echo "Вс." $ADOW
+		echo "Sun." $ADOW
 		;;
 	"1")
-		echo "Пн." $ADOW
+		echo "Mon." $ADOW
 		;;
 	"2")
-		echo "Вт." $ADOW
+		echo "Tue." $ADOW
 		;;
 	"3")
-		echo "Ср." $ADOW
+		echo "Wed." $ADOW
 		;;
 	"4")
-		echo "Чт." $ADOW
+		echo "Thu." $ADOW
 		;;
 	"5")
-		echo "Пт." $ADOW
+		echo "Fri." $ADOW
 		;;
 	"6")
-		echo "Сб." $ADOW
+		echo "Sat." $ADOW
 		;;
 esac
