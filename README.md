@@ -14,3 +14,6 @@
 
 ## Theme used:
 - gruvbox
+
+## Fonts used:
+- [Nerd Fonts](https://www.nerdfonts.com/)
