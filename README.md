@@ -18,7 +18,7 @@
 ### Fonts
 - [Nerd Fonts](https://www.nerdfonts.com/)
 
-### [Cursor](https://github.com/sainnhe/capitaine-cursors)
+- ### [Cursor](https://github.com/sainnhe/capitaine-cursors)
 
 ## Copy everything from .config to /home/*your username*/.config and <ins>backup everything!</ins>
 `$ cp -r ./.config/* $HOME/.config/`
