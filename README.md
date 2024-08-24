@@ -17,3 +17,5 @@
 
 ## Fonts used:
 - [Nerd Fonts](https://www.nerdfonts.com/)
+
+### [Sxhkd config because i won't write all keybinds in a readme](/.config/sxhkd/sxhkdrc) 
