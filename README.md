@@ -20,7 +20,7 @@
 
 - ### [Cursor](https://github.com/sainnhe/capitaine-cursors)
 
-## Copy everything from .config to /home/*your username*/.config and <ins>backup everything!</ins>
+## Copy everything from .config to /home/*your username*/.config and <ins>backup everything before that!</ins>
 `$ cp -r ./.config/* $HOME/.config/`
 
 
