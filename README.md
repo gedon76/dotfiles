@@ -3,6 +3,7 @@
 ![cool image](/images/screenshot.png?raw=true "How it should look")
 
 ![another cool image](/images/unixporn.png?raw=true "Busy")
+[r/unixporn post](https://www.reddit.com/r/unixporn/comments/1f0cuz8/bspwm_defaults/)
 
 # How to install
 ## Install everything listed below
