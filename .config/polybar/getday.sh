@@ -3,7 +3,7 @@
 DOW=$(date +%u)
 ADOW=$(date +%d/%m/%y)
 case $DOW in
-	"0")
+	"7")
 		echo "Sun." $ADOW
 		;;
 	"1")
