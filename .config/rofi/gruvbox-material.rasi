@@ -66,7 +66,7 @@ message {
 inputbar {
     color: @gruv6;
     padding: 14px;
-    background-color: @gruv0;
+    background-color: @gruv3;
     border-color: @gruv0;
 
     border: 1px;

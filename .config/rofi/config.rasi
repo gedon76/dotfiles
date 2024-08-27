@@ -9,8 +9,15 @@ configuration {
     display-window: "󱂬 window:";
     display-combi:  "󰕘 combi:";
     display-filebrowser: "󰉋 filebrowser:";
+    display-emoji:  " emoji:";
+    display-wifi:   " wifi:";
 
+    modi: "drun,ssh,run,window,combi,emoji,filebrowser";
     dpi: 120;
+}
+
+* {
+    font: "JetBrains Mono Nerd Font 10";
 }
 
 @theme "gruvbox-material"

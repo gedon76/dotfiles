@@ -104,13 +104,18 @@ super + ctrl + space
 super + ctrl + shift + space
 	bspc query -N -d | xargs -I id -n 1 bspc node id -p cancel
 
-#
-# move/resize
-#
+# custom keybinds
 
 super + w
 	feh --bg-fill --randomize ~/wallpapers/
 	~/.fehbg
+
+super + e
+	rofi -show emoji
+
+#
+# move/resize
+#
 
 # expand a window by moving one of its side outward
 super + alt + {h,j,k,l}

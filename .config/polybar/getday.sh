@@ -1,27 +1,27 @@
 #!/bin/bash
 
 DOW=$(date +%u)
-ADOW=$(date +%d/%m/%y)
+ADOW=$(date +"%d/%m/%y %H:%M")
 case $DOW in
 	"7")
-		echo "Sun." $ADOW
+		echo "Вс." $ADOW
 		;;
 	"1")
-		echo "Mon." $ADOW
+		echo "Пн." $ADOW
 		;;
 	"2")
-		echo "Tue." $ADOW
+		echo "Вт." $ADOW
 		;;
 	"3")
-		echo "Wed." $ADOW
+		echo "Ср." $ADOW
 		;;
 	"4")
-		echo "Thu." $ADOW
+		echo "Чт." $ADOW
 		;;
 	"5")
-		echo "Fri." $ADOW
+		echo "Пт." $ADOW
 		;;
 	"6")
-		echo "Sat." $ADOW
+		echo "Сб." $ADOW
 		;;
 esac
