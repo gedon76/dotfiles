@@ -21,7 +21,7 @@
 # TODO
 - [ ] Test battery module in polybar
 
-# Stuff to make this work 
+# Dependencies
 ### Software
 - alacritty
 - dunst
@@ -31,12 +31,10 @@
 - polybar
 - rofi
 - feh
+- pacman-contrib
 
 ### Fonts
 - [Nerd Fonts](https://www.nerdfonts.com/)
-
-### [Cursor](https://github.com/sainnhe/capitaine-cursors)
-
 
 # Scripts used:
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
