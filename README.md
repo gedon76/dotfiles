@@ -19,7 +19,7 @@
 </details>
 
 # TODO
-- [ ] Test baterry module in polybar
+- [ ] Test battery module in polybar
 
 # How to install
 ## Install everything listed below
