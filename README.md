@@ -33,10 +33,10 @@
 ### Fonts
 - [Nerd Fonts](https://www.nerdfonts.com/)
 
-- ### [Cursor](https://github.com/sainnhe/capitaine-cursors)
+### [Cursor](https://github.com/sainnhe/capitaine-cursors)
 
 
-# Scripts used:
+### Scripts used:
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
 - [rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
 - [updates-pacman](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman)
