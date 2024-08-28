@@ -21,9 +21,7 @@
 # TODO
 - [ ] Test battery module in polybar
 
-# How to install
-## Install everything listed below
-### Software:
+### Software used:
 - alacritty
 - dunst
 - [picom](https://github.com/fdev31/picom)
@@ -36,9 +34,6 @@
 - [Nerd Fonts](https://www.nerdfonts.com/)
 
 - ### [Cursor](https://github.com/sainnhe/capitaine-cursors)
-
-## Copy everything from .config to /home/*your username*/.config and <ins>backup everything before that!</ins>
-`$ cp -r ./.config/* $HOME/.config/`
 
 
 # Scripts used:
