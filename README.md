@@ -21,7 +21,8 @@
 # TODO
 - [ ] Test battery module in polybar
 
-### Software used:
+# Stuff to make this work 
+### Software
 - alacritty
 - dunst
 - [picom](https://github.com/fdev31/picom)
@@ -37,7 +38,7 @@
 ### [Cursor](https://github.com/sainnhe/capitaine-cursors)
 
 
-### Scripts used:
+# Scripts used:
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
 - [rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
 - [updates-pacman](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman)
