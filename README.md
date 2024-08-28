@@ -29,6 +29,7 @@
 - sxhkd
 - polybar
 - rofi
+- feh
 
 ### Fonts
 - [Nerd Fonts](https://www.nerdfonts.com/)
