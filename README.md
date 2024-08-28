@@ -18,6 +18,9 @@
 
 </details>
 
+# TODO
+- [ ] Test baterry module in polybar
+
 # How to install
 ## Install everything listed below
 ### Software:
