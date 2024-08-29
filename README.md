@@ -30,7 +30,7 @@
 - alacritty
 - dunst
 - [picom](https://github.com/fdev31/picom)
-- bspwm
+- bspwm (or [bspwm-rounded-corners-git](https://aur.archlinux.org/packages/bspwm-rounded-corners-git)<sup><small>AUR</small></sup>)
 - sxhkd
 - polybar
 - rofi
