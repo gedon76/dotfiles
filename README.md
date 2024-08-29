@@ -39,6 +39,7 @@
 
 ### Fonts
 - [Nerd Fonts](https://www.nerdfonts.com/)
+- [Noto Fonts](https://fonts.google.com/noto/fonts/)
 
 # Scripts used:
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
