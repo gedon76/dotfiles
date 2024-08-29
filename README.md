@@ -34,6 +34,7 @@
 - sxhkd
 - polybar
 - rofi
+- rofi-emoji
 - feh
 - pacman-contrib
 
