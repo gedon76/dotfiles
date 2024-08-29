@@ -17,9 +17,6 @@
 ![browsing](/images/browsing.png?raw=true "Firefox (not included)")
 
 ![coding](/images/coding.png?raw=true "VS Code (not included)")
-
-![discord](/images/discord.png?raw=true "Discord (not even mine)")
-
 </details>
 
 # TODO
