@@ -42,7 +42,7 @@
 - [Nerd Fonts](https://www.nerdfonts.com/)
 - [Noto Fonts](https://fonts.google.com/noto/fonts/)
 
-# Scripts used:
+# Scripts used
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
 - [rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
 - [updates-pacman](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman)
