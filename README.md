@@ -33,14 +33,13 @@
 - bspwm (or [bspwm-rounded-corners-git](https://aur.archlinux.org/packages/bspwm-rounded-corners-git)<sup><small>AUR</small></sup>)
 - sxhkd
 - polybar
-- rofi
 - rofi-emoji
 - feh
 - pacman-contrib
 
 ### Fonts
-- [Nerd Fonts](https://www.nerdfonts.com/)
-- [Noto Fonts](https://fonts.google.com/noto/fonts/)
+- [ttf-nerd-fonts-symbols](https://www.nerdfonts.com/)
+- [noto-fonts](https://fonts.google.com/noto/fonts/)
 
 # Scripts used
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
