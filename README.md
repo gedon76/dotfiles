@@ -47,6 +47,6 @@
 # Additional Information
 These dotfiles use 24hr time format. If you use 12hr format instead, uncomment this line in [polybar/config.ini](/.config/polybar/config.ini)
 
-<sup><small>(don't forget to comment the previous line)</small></sup>
-
 ![this line](/images/12hrclock.png?raw=true "This line")
+
+<sup><small>(don't forget to comment the previous line)</small></sup>
