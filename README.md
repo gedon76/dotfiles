@@ -42,3 +42,5 @@
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
 - [rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
 - [updates-pacman](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman)
+
+<sup><small> these dotfiles use 24hr clock format </small></sup>
