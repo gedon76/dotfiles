@@ -1,6 +1,7 @@
 [![Arch Linux](https://img.shields.io/badge/Arch%20Linux-white?style=flat&logo=archlinux&logoColor=1793d1)](https://www.archlinux.org/)
 [![Linux](https://img.shields.io/badge/Linux-%23.svg?logo=linux&color=FCC624&logoColor=black)](https://www.linux.org/)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gedon76/dotfiles)
+![GitHub top language](https://img.shields.io/github/languages/top/gedon76/dotfiles)
 
 
 # Screenshots
