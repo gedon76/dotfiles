@@ -44,7 +44,7 @@
 - [rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
 - [updates-pacman](https://github.com/polybar/polybar-scripts/tree/master/polybar-scripts/updates-pacman)
 
-# Additional Information
+# Additional Info
 These dotfiles use 24hr time format. If you use 12hr format instead, uncomment this line in [polybar/config.ini](/.config/polybar/config.ini)
 
 ![this line](/images/12hrclock.png?raw=true "This line")
