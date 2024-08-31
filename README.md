@@ -34,6 +34,7 @@
 - rofi-emoji
 - feh
 - pacman-contrib
+- xorg-xsetroot
 
 ### Fonts
 - [ttf-nerd-fonts-symbols](https://www.nerdfonts.com/)
