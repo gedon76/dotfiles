@@ -107,7 +107,7 @@ super + ctrl + shift + space
 # custom keybinds
 
 super + w
-	feh --bg-fill --randomize ~/wallpapers/
+	feh --bg-fill --randomize $HOME/wallpapers/
 	~/.fehbg
 
 super + e
