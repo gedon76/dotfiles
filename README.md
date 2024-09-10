@@ -30,7 +30,7 @@
 - dunst
 - feh
 - pacman-contrib
-- [picom](https://github.com/fdev31/picom)
+- picom (or [picom-simpleanims-git](https://aur.archlinux.org/packages/picom-simpleanims-git)<sup><small>AUR</small></sup>)
 - polybar
 - rofi-emoji
 - sxhkd
