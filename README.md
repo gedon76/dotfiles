@@ -26,19 +26,19 @@
 # Dependencies
 ### Software
 - alacritty
-- dunst
-- [picom](https://github.com/fdev31/picom)
 - bspwm (or [bspwm-rounded-corners-git](https://aur.archlinux.org/packages/bspwm-rounded-corners-git)<sup><small>AUR</small></sup>)
-- sxhkd
-- polybar
-- rofi-emoji
+- dunst
 - feh
 - pacman-contrib
+- [picom](https://github.com/fdev31/picom)
+- polybar
+- rofi-emoji
+- sxhkd
 - xorg-xsetroot
 
 ### Fonts
-- [ttf-nerd-fonts-symbols](https://www.nerdfonts.com/)
 - [noto-fonts](https://fonts.google.com/noto/fonts/)
+- [ttf-nerd-fonts-symbols](https://www.nerdfonts.com/)
 
 # Scripts used
 - [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
