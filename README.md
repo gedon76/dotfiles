@@ -55,5 +55,7 @@ in your NixOS config file
 
 # Installation
 
+Change `yourusername` to your username in [home-manager/home.nix](/.config/home-manager/home.nix)
+
 ```
 $ chmod +x ./install.sh; ./install.sh
