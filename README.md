@@ -1,5 +1,8 @@
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
+
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
+[![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gedon76/dotfiles)
 ![GitHub top language](https://img.shields.io/github/languages/top/gedon76/dotfiles)
 ![Repo Size](https://img.shields.io/github/repo-size/sukhmancs/nixos-configs?label=Repo%20Size)
@@ -48,14 +51,18 @@ fonts.packages = with pkgs; [
 in your NixOS config file
 
 # Scripts used
-- [polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
-- [rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
+- [MarcDonald/polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
+- [hiimsergey/rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
 
 # Wallpapers
-- [gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)
+- [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)
 
 # Installation
 
 - Change `yourusername` to your username in [home-manager/home.nix](/.config/home-manager/home.nix)
 
 - Run ``` $ chmod +x ./install.sh; ./install.sh ```
+
+# P.S.
+
+Thanks to [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
