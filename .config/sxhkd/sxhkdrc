@@ -110,9 +110,6 @@ super + w
 	feh --bg-fill --randomize $HOME/wallpapers/
 	~/.fehbg
 
-super + e
-	rofi -show emoji
-
 #
 # move/resize
 #

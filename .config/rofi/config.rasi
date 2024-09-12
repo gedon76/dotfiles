@@ -9,10 +9,9 @@ configuration {
     display-window: "󱂬 window:";
     display-combi:  "󰕘 combi:";
     display-filebrowser: "󰉋 filebrowser:";
-    display-emoji:  " emoji:";
     display-wifi:   " wifi:";
 
-    modi: "drun,ssh,run,window,combi,emoji,filebrowser";
+    modi: "drun,ssh,run,window,combi,filebrowser";
     dpi: 120;
 }
 
