@@ -3,7 +3,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gedon76/dotfiles)
 ![GitHub top language](https://img.shields.io/github/languages/top/gedon76/dotfiles)
 ![Repo Size](https://img.shields.io/github/repo-size/sukhmancs/nixos-configs?label=Repo%20Size)
-![vim-plug](https://img.shields.io/badge/used-vim?logo=neovim&label=vim-plug)
+![vim-plug](https://img.shields.io/badge/used-vim?logo=vim&label=vim-plug)
 
 
 # Screenshots (OUTDATED)
