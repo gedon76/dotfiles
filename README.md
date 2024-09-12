@@ -1,5 +1,5 @@
 [![built with nix](https://builtwithnix.org/badge.svg)](https://builtwithnix.org)
-[![Linux](https://img.shields.io/badge/Linux-%23.svg?logo=linux&color=FCC624&logoColor=black)](https://www.linux.org/)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gedon76/dotfiles)
 ![GitHub top language](https://img.shields.io/github/languages/top/gedon76/dotfiles)
 ![Repo Size](https://img.shields.io/github/repo-size/sukhmancs/nixos-configs?label=Repo%20Size)
