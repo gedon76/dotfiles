@@ -15,6 +15,8 @@
 
 ![image](/images/screenshot.png?raw=true "How it should look")
 
+![another image](/images/unixporn.png?raw=true "r/unixporn")
+
 # TODO
 - [ ] Test battery module in polybar
 
