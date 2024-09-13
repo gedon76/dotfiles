@@ -56,7 +56,3 @@ in your NixOS config file
 - Run ``` $ chmod +x ./install.sh; ./install.sh ```
 
 - If you use the 12 hour time format, change ```%R``` to ```%I:%M %p``` in [polybar/config.ini on line 291](https://github.com/gedon76/dotfiles/blob/main/.config/polybar/config.ini#L291)
-
-# P.S.
-
-Thanks to [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
