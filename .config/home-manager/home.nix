@@ -3,8 +3,8 @@
 {
   # Home Manager needs a bit of information about you and the paths it should
   # manage.
-  home.username = "yourusername";
-  home.homeDirectory = "/home/yourusername";
+  home.username = "gedon76";
+  home.homeDirectory = "/home/gedon76";
 
   # This value determines the Home Manager release that your configuration is
   # compatible with. This helps avoid breakage when a new Home Manager release
@@ -19,10 +19,9 @@
   # environment.
   home.packages = with pkgs; [
     alacritty
-    dunst
     feh
     picom
-    polybar
+    polybarFull
     rofi
     xorg.xsetroot
     killall

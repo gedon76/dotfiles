@@ -4,7 +4,7 @@ call plug#begin()
 
 " List your plugins here
 Plug 'Exafunction/codeium.vim'
-Plug 'ellisonleao/gruvbox.nvim'
+Plug 'catppuccin/nvim', { 'as': 'catppuccin' }
 Plug 'rust-lang/rust.vim'
 Plug 'sheerun/vim-polyglot'
 Plug 'scrooloose/nerdtree'
@@ -24,7 +24,7 @@ autocmd VimEnter * NERDTree | wincmd p
 autocmd VimEnter * if argc() == 0 && !exists("s:std_in") | NERDTree | endif
 
 set background=dark
-colorscheme gruvbox
+colorscheme catppuccin-macchiato
 
 syntax on
 filetype plugin indent on
