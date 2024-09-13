@@ -3,6 +3,7 @@
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gedon76/dotfiles)
 ![GitHub top language](https://img.shields.io/github/languages/top/gedon76/dotfiles)
 
+# THIS BRANCH WILL NOT BE SUPPORTED
 
 # Screenshots
 
