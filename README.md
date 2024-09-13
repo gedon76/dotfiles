@@ -2,6 +2,8 @@
 
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://linux.org)
 [![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)](https://neovim.io/)
+[![Catppuccin](https://img.shields.io/badge/catppuccin-181926?style=for-the-badge&logo=cat&color=181926)](https://catppuccin.com/)
+
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gedon76/dotfiles)
 ![GitHub top language](https://img.shields.io/github/languages/top/gedon76/dotfiles)
@@ -9,21 +11,9 @@
 ![vim-plug](https://img.shields.io/badge/used-vim?logo=vim&label=vim-plug)
 
 
-# Screenshots (OUTDATED)
+# Screenshot
 
-![cool image](/images/screenshot.png?raw=true "How it should look")
-
-![another cool image](/images/unixporn.png?raw=true "Busy")
-
-<details>
-<summary>More Images</summary>
-
-![rofi](/images/rofi.png?raw=true "Rofi")
-
-![browsing](/images/browsing.png?raw=true "Firefox (not included)")
-
-![coding](/images/coding.png?raw=true "VS Code (not included)")
-</details>
+![image](/images/screenshot.png?raw=true "How it should look")
 
 # TODO
 - [ ] Test battery module in polybar
@@ -52,14 +42,14 @@ in your NixOS config file
 
 # Scripts used
 - [MarcDonald/polybar-mic-volume](https://github.com/MarcDonald/polybar-mic-volume)
-- [hiimsergey/rofi-gruvbox](https://github.com/hiimsergey/rofi-gruvbox-material)
+- [catppuccin/rofi](https://github.com/catppuccin/rofi)
 
-# Wallpapers
-- [AngelJumbo/gruvbox-wallpapers](https://github.com/AngelJumbo/gruvbox-wallpapers)
 
 # Installation
 
 - Change `yourusername` to your username in [home-manager/home.nix](/.config/home-manager/home.nix)
+
+- Add your wallpaper by running ``` $ feh --bg-fill /path/to/your/wallpaper ```
 
 - Run ``` $ chmod +x ./install.sh; ./install.sh ```
 
