@@ -7,8 +7,8 @@
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/m/gedon76/dotfiles?style=for-the-badge)
 ![GitHub top language](https://img.shields.io/github/languages/top/gedon76/dotfiles?style=for-the-badge)
-![Repo Size](https://img.shields.io/github/repo-size/gedon76/dotfiles?label=Repo%20Size?style=for-the-badge)
-![vim-plug](https://img.shields.io/badge/used-vim?logo=vim&label=vim-plug?style=for-the-badge)
+![Repo Size](https://img.shields.io/github/repo-size/gedon76/dotfiles?label=Repo%20Size&style=for-the-badge)
+![vim-plug](https://img.shields.io/badge/used-vim?logo=vim&label=vim-plug&style=for-the-badge)
 
 
 # Screenshot
