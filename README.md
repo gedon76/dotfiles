@@ -11,7 +11,7 @@
 ![vim-plug](https://img.shields.io/badge/used-vim?logo=vim&label=vim-plug&style=for-the-badge)
 
 
-# Screenshot
+# Screenshots
 
 ![image](/images/screenshot.png?raw=true "How it should look")
 
