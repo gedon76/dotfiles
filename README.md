@@ -49,7 +49,7 @@ in your NixOS config file
 
 # Installation
 
-- Change `yourusername` to your username in [home-manager/home.nix](/.config/home-manager/home.nix)
+- Change `yourusername` to your username in [home-manager/home.nix](/.config/home-manager/home.nix) and [home-manager/flake.nix](/.config/home-manager/flake.nix)
 
 - Add your wallpaper by running ``` $ feh --bg-fill /path/to/your/wallpaper ```
 
